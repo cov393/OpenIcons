@@ -34,7 +34,7 @@ Each icon is named descriptively (e.g., `ui_button_play.svg`) to indicate its pu
 
 You can also clone the repository for local access:
 ```bash
-git clone https://github.com/your-username/icon-collection.git
+git clone https://github.com/cov393/icon-collection.git
 ```
 
 ## Contribution
@@ -49,6 +49,6 @@ Please ensure all contributed icons are original and align with the repositoryâ€
 This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the icons for personal or commercial projects, provided the license terms are followed.
 
 ## Contact
-For questions, suggestions, or feedback, feel free to open an issue on this repository or contact me via [your-email@example.com](mailto:your-email@example.com).
+For questions, suggestions, or feedback, feel free to open an issue on this repository.
 
 Thank you for exploring this icon collection! I hope these assets enhance your projects.
